@@ -3,7 +3,7 @@
 ######################
 /build/
 /bin/
-../kata-shop1/target/
+/target/
 
 ######################
 # OS Files
